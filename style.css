@@ -1,0 +1,11 @@
+.timer{
+    display: inline-flex;
+    text-align: center;
+    background-color: aquamarine;
+    margin-left: 300px;
+    
+}
+
+.field{
+    margin-right: 20px;
+}
